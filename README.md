@@ -1,0 +1,1 @@
+Godot实现双人协同编辑的插件，使用的是WebSocket来通信。需要结合我们修改的godot源码编译出的Godot编辑器，源码请看https://github.com/HonsChon/Godot4.1_CoOperation
